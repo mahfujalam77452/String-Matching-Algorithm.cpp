@@ -12,6 +12,7 @@
 ...a) Recur for left and right children.
 ...b) Update current node using results of left
       and right calls.*/
+      // Here the code for collecting sum for speacific range.
 
 #include<bits/stdc++.h>
 using namespace std;
